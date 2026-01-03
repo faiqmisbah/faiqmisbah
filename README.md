@@ -86,16 +86,11 @@ const faiq = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faiqmisbah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a78bfa&icon_color=a78bfa&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqmisbah&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a78bfa&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=faiqmisbah&theme=tokyonight&hide_border=true&background=1a1b27&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=faiqmisbah&theme=tokyonight&hide_border=true&background=1a1b27&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faiqmisbah&theme=tokyonight" alt="Contribution Graph" width="70%" />
+  <img src="https://ghchart.rshah.org/a78bfa/faiqmisbah" alt="GitHub Contribution Graph" width="90%" />
 </p>
 
 ---
