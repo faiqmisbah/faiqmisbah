@@ -12,12 +12,17 @@
 
 ```javascript
 const faiq = {
-    location: "Bandung, Indonesia",
-    role: "UI/UX Designer & Data Analyst",
-    education: "Telkom University",
-    interests: ["Web Development", "Mobile Apps", "Data Analysis", "Design Systems"],
-    currentFocus: "Creating intuitive designs backed by data insights",
-    quote: "Kode yang indah, lahir dari ketekunan. 😁"
+  location: "Bandung, Indonesia",
+  role: "UI/UX Designer & Data Analyst",
+  education: "Telkom University",
+  interests: [
+    "Web Development",
+    "Mobile Apps",
+    "Data Analysis",
+    "Design Systems",
+  ],
+  currentFocus: "Creating intuitive designs backed by data insights",
+  quote: "Kode yang indah, lahir dari ketekunan. 😁",
 };
 ```
 
@@ -32,6 +37,7 @@ const faiq = {
 ### 🛠️ Tech Stack
 
 #### **Languages**
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -42,6 +48,7 @@ const faiq = {
 </p>
 
 #### **Frameworks & Libraries**
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -52,6 +59,7 @@ const faiq = {
 </p>
 
 #### **Design Tools**
+
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
@@ -59,12 +67,14 @@ const faiq = {
 </p>
 
 #### **Database & Backend**
+
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 #### **Tools & Platforms**
+
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -76,16 +86,16 @@ const faiq = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faiqmisbah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a78bfa&icon_color=a78bfa" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqmisbah&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a78bfa" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faiqmisbah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a78bfa&icon_color=a78bfa&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqmisbah&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a78bfa&langs_count=8" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiqmisbah&theme=tokyonight&hide_border=true&background=1a1b27&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=faiqmisbah&theme=tokyonight&hide_border=true&background=1a1b27&stroke=a78bfa&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faiqmisbah&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=a78bfa&line=a78bfa&point=ffffff" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faiqmisbah&theme=tokyonight" alt="Contribution Graph" width="70%" />
 </p>
 
 ---
@@ -94,13 +104,13 @@ const faiq = {
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🎨 [Design System JAKI](https://github.com/faiqmisbah) | Comprehensive design system with UI components | Figma |
-| 🍔 [Food Delivery App](https://github.com/faiqmisbah) | Mobile app for food ordering and delivery | Flutter, Firebase |
-| 💰 [SakuIn Finance](https://github.com/faiqmisbah) | Financial management platform | Laravel, MySQL |
-| 🗳️ [E-Voting System](https://github.com/faiqmisbah) | Digital voting management system | HTML, CSS, JS |
-| 📱 [Portfolio Website](https://faiqmisbah.github.io/react-portofolio/) | Personal portfolio showcasing projects | React, Tailwind |
+| Project                                                                | Description                                    | Tech Stack        |
+| ---------------------------------------------------------------------- | ---------------------------------------------- | ----------------- |
+| 🎨 [Design System JAKI](https://github.com/faiqmisbah)                 | Comprehensive design system with UI components | Figma             |
+| 🍔 [Food Delivery App](https://github.com/faiqmisbah)                  | Mobile app for food ordering and delivery      | Flutter, Firebase |
+| 💰 [SakuIn Finance](https://github.com/faiqmisbah)                     | Financial management platform                  | Laravel, MySQL    |
+| 🗳️ [E-Voting System](https://github.com/faiqmisbah)                    | Digital voting management system               | HTML, CSS, JS     |
+| 📱 [Portfolio Website](https://faiqmisbah.github.io/react-portofolio/) | Personal portfolio showcasing projects         | React, Tailwind   |
 
 </div>
 
